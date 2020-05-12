@@ -72,4 +72,4 @@ async def on_error(event, *args, **kwargs):
 
     
 
-client.run('NDYzNzQ0NjE2NzczMTg5NjMy.XnSIMA.2tEE66dodUuXRh83YKF3XjNni8U')
+client.run('Hi there ^^')
